@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Main.cs">
+    <Files>
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\Main.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\enemies\Kobold.cs" Line="1" Column="1" />
+      <File FileName="..\..\Users\ross\Documents\test platformer unity\Assets\Scripts\Rocket.cs" Line="1" Column="1" />
+      <File FileName="..\..\Users\ross\Documents\test platformer unity\Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="..\..\Users\ross\Documents\test platformer unity\Assets\Scripts\Bomb.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\features.txt" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\todo.txt" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\EnemyWave.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\enemies\Enemy.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\enemies\StickMan.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\EnemyWave1.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\EnemyWave2.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\Scene.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\StartScreen.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\scenes\WaveLookup.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\buildings\Amory.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\uis\UI.cs" Line="1" Column="1" />
+      <File FileName="..\samurai-fortress-defense\Assets\scripts\uis\ArmoryUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
